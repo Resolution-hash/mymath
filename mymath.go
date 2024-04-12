@@ -1,4 +1,4 @@
-package mymath
+package remote_pkg
 
 import "math"
 
